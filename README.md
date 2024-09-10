@@ -3,7 +3,7 @@
 <head>
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
 </head>
-# About
+
 I am a seasoned data scientist that specializes in prototyping analytical solutions at scale on big data. Currently, my day to day work goes with writing python, sql, spark code, leading teams, leading projects, and developing strategy. I have both IC and team lead experience. I have experience with:
 
 `LLMs • Fine-tuning • Generative AI • Transformers • Machine learning • time series analysis • predictive analytics • deep learning • Natural language processing • Vector and Graph databases • dashboards and visualizations • Teaching data science • Connecting with non-technical audience`
@@ -24,7 +24,7 @@ I have used the following cloud platforms and services:
 
 `AWS • Azure • GCP • Databricks • Domino • S3 • Redshift • TDV • BigQuery • Snowflake`
 
-
+Please check for a list of projects here: matt7salomon.github.io
 <!--
 **matt7salomon/matt7salomon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
