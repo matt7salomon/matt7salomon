@@ -24,7 +24,7 @@ I have used the following cloud platforms and services:
 
 `AWS • Azure • GCP • Databricks • Domino • S3 • Redshift • TDV • BigQuery • Snowflake`
 
-Please check for a list of projects here: matt7salomon.github.io
+**Please check for a list of projects here: matt7salomon.github.io**
 <!--
 **matt7salomon/matt7salomon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
