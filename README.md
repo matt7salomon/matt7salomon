@@ -24,6 +24,10 @@ I have used the following cloud platforms and services:
 
 `AWS • Azure • GCP • Databricks • Domino • S3 • Redshift • TDV • BigQuery • Snowflake`
 
+GPU technologies that I have worked with:
+
+`RapidsAI • Cuda • Macbook MPS • TensorRT • NeMo • Jetson • Triton Inference Server`
+
 **Please check for a list of projects here: matt7salomon.github.io**
 <!--
 **matt7salomon/matt7salomon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
