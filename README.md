@@ -1,4 +1,4 @@
-## It's Matt :) Welcome to my page! 👋
+## It's Matt 😎 Welcome to my page! 👋
 
 <head>
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
