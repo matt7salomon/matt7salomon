@@ -1,45 +1,43 @@
-## It's Matt 😎 Welcome to my page! 👋
+# Matt Salomon
 
-<head>
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
-</head>
+### Principal Data Scientist | Applied AI & Machine Learning Engineer
 
-I am a seasoned data scientist that specializes in prototyping analytical solutions at scale on big data. Currently, my day to day work goes with writing python, sql, spark code, leading teams, leading projects, and developing strategy. I have both IC and team lead experience. I have experience with:
+I design and deploy production-grade AI/ML systems across regulated enterprise environments. My work spans generative and agentic AI, large-scale machine learning, data engineering, MLOps, and technical leadership—from initial prototyping through production deployment, monitoring, and continuous improvement.
 
-`LLMs • Fine-tuning • Generative AI • Transformers • Machine learning • time series analysis • predictive analytics • deep learning • Natural language processing • Vector and Graph databases • dashboards and visualizations • Teaching data science • Connecting with non-technical audience`
+## Areas of Focus
 
-I have experience developing the following solutions:
+- **Generative and Agentic AI:** RAG, agentic workflows, LLM fine-tuning, structured extraction, prompt engineering, embeddings, hybrid search, tool calling, and human-in-the-loop systems
+- **LLM Evaluation:** Golden datasets, retrieval evaluation, LLM-as-judge, hallucination and groundedness evaluation, tracing, and regression testing
+- **Production ML:** Model deployment, automated retraining, drift detection, monitoring, scalable inference, and CI/CD
+- **Applied Machine Learning:** NLP, forecasting, recommendations, anomaly and fraud detection, graph ML, classification, and deep learning
+- **Large-Scale Data:** Spark/PySpark pipelines, feature engineering, distributed training and scoring, and multimillion-row datasets
 
-`Health insurance risk • Recommendation Engines • A/B testing • Image processing • Real-time object detection • Fraud Detection • Ad/Promotion Targeting • Developing LLM chatbots • Fine tuning LLMs • RAG • Customer Relation Management (CRM) • Enterprise Resource Planning • Business Insights`
+## Selected Experience
 
-I currently actively use the following tools depending on client needs:
+- Led development of a production RAG platform for multilingual legal documents, providing semantic search, source attribution, and optimized LLM serving with vLLM.
+- Built a LangGraph-based survey agent with dynamic routing, tool invocation, structured Pydantic outputs, human approval, and LangSmith evaluation.
+- Developed document-extraction pipelines combining OCR, fine-tuned models, validation, and monitoring, achieving more than 95% field-level F1.
+- Architected TB-scale privacy, healthcare-risk, recommendation, and automated model-retraining systems in regulated environments.
 
-`Python • R • Spark • SQL • Scala • SAS • Java • Tableau • Shiny App • Hive • Hadoop • Linux • MySQL •Neo4j`
+## Technical Stack
 
-Notable packages and libraries that I use for data mining and machine learning:
+**Languages and Data:** Python • SQL • Spark/PySpark • R • Java • Linux
 
-`Pyspark • Spark ML • MLlib • Scikit-learn • Theano • TensorFlow • Pytorch • H2O • Transformers`
+**AI and Machine Learning:** PyTorch • TensorFlow/Keras • scikit-learn • XGBoost • LightGBM • Hugging Face Transformers • GraphSAGE • Neo4j
 
-I have used the following cloud platforms and services:
+**Generative AI:** LangChain • LangGraph • LlamaIndex • OpenAI API • RAG • MCP • Pydantic • LangSmith
 
-`AWS • Azure • GCP • Databricks • Domino • S3 • Redshift • TDV • BigQuery • Snowflake`
+**MLOps and Serving:** MLflow • Docker • Kubernetes • FastAPI • vLLM • TensorRT • Git • CI/CD
 
-GPU technologies that I have worked with:
+**Data Platforms:** Databricks • Kafka • Airflow • Snowflake • PostgreSQL • MongoDB • Redis • Azure AI Search • FAISS
 
-`RapidsAI • Cuda • Macbook MPS • TensorRT • NeMo • Jetson • Triton Inference Server`
+**Cloud:** AWS (SageMaker, Bedrock, AgentCore, S3, EC2, CloudWatch) • Microsoft Azure (Azure ML, Microsoft Foundry, Azure AI Search, Azure Monitor) • GCP (Vertex AI, BigQuery)
 
-**Please check for a list of projects here: matt7salomon.github.io**
-<!--
-**matt7salomon/matt7salomon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Background
 
-Here are some ideas to get you started:
+- PhD in Electrical Engineering from Texas A&M University
+- 16+ years of hands-on data science and machine-learning experience
+- 12 journal and conference publications with approximately 1,000 citations
+- Experience as an individual contributor, technical lead, team lead, and data-science instructor
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The repositories below contain independent technical demonstrations and learning implementations. Production and client systems remain proprietary.
